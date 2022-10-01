@@ -1,0 +1,8 @@
+//{{NO_DEPENDENCIES}}
+// Включаемый файл, созданный в Microsoft Visual C++.
+// Используется module2.rc
+//
+#define IDD_DIALOG2                     3
+#define IDC_LIST1                       1000
+
+
